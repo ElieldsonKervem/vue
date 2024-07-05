@@ -55,3 +55,14 @@ h1{
 h2{
     @include subHeader
 }
+
+h3{
+	@include comment
+}
+
+.space{
+	margin: 3rem 0rem;
+}
+.doubleSpace{
+	margin: 6.0rem 0rem;
+}

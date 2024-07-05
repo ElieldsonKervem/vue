@@ -68,4 +68,21 @@ h2 {
   text-align: left;
 }
 
+h3 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 4.6rem;
+  text-align: left;
+  font-style: italic;
+  padding: 0rem 5rem;
+}
+
+.space {
+  margin: 3rem 0rem;
+}
+
+.doubleSpace {
+  margin: 6rem 0rem;
+}
+
 /*# sourceMappingURL=base.css.map */

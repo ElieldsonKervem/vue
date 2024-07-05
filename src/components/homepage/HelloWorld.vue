@@ -1,6 +1,7 @@
 <template>
    
      <leftSideHome/>
+     
 </template>;
 
 <script setup>

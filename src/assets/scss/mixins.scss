@@ -17,6 +17,15 @@
 
 }
 
+@mixin comment{
+    font-size: 3rem;
+    font-weight: 400;
+    line-height: 4.6rem;
+    text-align: left;
+    font-style: italic;
+    padding: 0rem 5rem;
+}
+
 @mixin commnetFont{
     font-size: 3.2rem;
     font-weight: 300;
@@ -29,5 +38,9 @@
     font-weight: 400;
     line-height: 2.6rem;   
     text-align: left;
+}
+
+@mixin divs {
+    padding: 2rem;
 }
 
