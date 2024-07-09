@@ -79,6 +79,8 @@
             console.error('Error:', error);
           }
         }
+
+        console.log(nameCreate)
       };
   
       return {
